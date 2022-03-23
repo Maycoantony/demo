@@ -1,5 +1,5 @@
 # Demo
 
 - learning GitHub
-- demonstrar emoji
-
+- adicionar arquivos para a nuvem - git push
+- puxar arquivos da nuvem - git pull
